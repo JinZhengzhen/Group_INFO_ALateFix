@@ -4,7 +4,7 @@
 **GROUP_INFO_VisLangFly**
 
 ## Why This Name?
-We chose the name "AAE5303_Team" because it directly reflects our course code (AAE5303), which represents our shared academic journey. The name emphasizes our collaborative spirit and commitment to working together as a unified team throughout this project.
+We named it "VisLangFly" because it intuitively integrates the three core elements of our project: vision, language, and flight control. This name is concise and easy to remember, constantly reminding us of the cross-modal intelligence goal of our project. Our team will take this as the core, devote ourselves wholeheartedly, and work together to do the project well.
 
 ## Team Members
 
@@ -23,8 +23,8 @@ We chose the name "AAE5303_Team" because it directly reflects our course code (A
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
 
 ### Member 3
-- **Student ID:** 34567890
-- **Name:** Michael Chen
+- **Student ID:** 25046399g
+- **Name:** Shou Zhihuai
 - **Brief Introduction:** Michael has expertise in data analysis and machine learning. He is responsible for algorithm design and performance optimization.
 - **(individual) Assignment 1:** https://github.com/yourname/assignment1
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
