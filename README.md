@@ -8,16 +8,16 @@ Our name represents our journey – we may have joined late, but we always fix t
 > 💡 **Tip:** Feel free to add your personal photo if you'd like! It's completely optional but can make your profile more personal. 📸
 
 ### Member 1
-- **Student ID:** [25100347G]
-- **Name:** [Zhengzhen Jin]
+- **Student ID:**  25100347G 
+- **Name:**  Zhengzhen Jin 
 - **About Me:** I'm a determined and fast learner, always pushing to improve. I'm excited to collaborate with my teammates and take on new challenges in AAE5303!
 - **(individual) Assignment 1:** [[GitHub repo link](https://github.com/JinZhengzhen/PolyU-AAE5303-assignment-1-template)](#)
 - **(individual) Assignment 2:** [GitHub repo link](#)
 - **Photo (Optional):** ![Zhengzhen](#)
 
 ### Member 2
-- **Student ID:** [25072438G]
-- **Name:** [Xinyan Shen]
+- **Student ID:**  25072438G
+- **Name:**  Xinyan Shen 
 - **About Me:** [Your introduction - be as creative as you want!]
 - **(individual) Assignment 1:** [GitHub repo link](#)
 - **(individual) Assignment 2:** [GitHub repo link](#)
