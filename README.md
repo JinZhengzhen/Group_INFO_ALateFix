@@ -52,7 +52,7 @@ Our name represents our journey – we may have joined late, but we always fix t
 - [ ] ✅ Each member has their Student ID
 - [ ] ✅ Each member has their Name
 - [ ] ✅ Each member has some introduction/about section
-- [ ] ✅ Each member has Assignment 1/2 GitHub repo links
+- [ ]  Each member has Assignment 1/2 GitHub repo links
 - [ ] ✅ Group project GitHub repo links are included
 
 ---
