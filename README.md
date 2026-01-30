@@ -46,24 +46,4 @@ Our name represents our journey – we may have joined late, but we always fix t
 
 ---
 
-**Quick Checklist:**
-- [ ] ✅ Group name is included
-- [ ] ✅ All team members are listed (up to 3)
-- [ ] ✅ Each member has their Student ID
-- [ ] ✅ Each member has their Name
-- [ ] ✅ Each member has some introduction/about section
-- [ ]  Each member has Assignment 1/2 GitHub repo links
-- [ ] ✅ Group project GitHub repo links are included
-
----
-
-🎨 **Tips for Making It Awesome:**
-1. **Be authentic** - Let your team's personality shine through! 💫
-2. **Have fun** - This is your chance to show who you are! 🎪
-3. **Be creative** - Don't be afraid to try something different! 🌈
-4. **Keep it readable** - Make sure the essential info is easy to find! 📖
-5. **Work together** - Collaborate with your teammates on the design! 👥
-
----
-
 **P.S.** We're excited to see how ALateFix shines in AAE5303! Let's fix everything — quickly and with excellence! 💪
