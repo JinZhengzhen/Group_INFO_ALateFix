@@ -20,7 +20,7 @@ Member 3:
 - **Student ID** [25042165g]
 - **Name** [WANG Shiwei]
 - **Brief Introduction** 
-- **(individual) Assignment 1:** 
+- **(individual) Assignment 1:** [https://github.com/Chaoxixiong/PolyU-AAE5303-assignment-1-template-README.md]
 - **(individual) Assignment 2:** GitHub repo link
 
 
